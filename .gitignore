@@ -1,0 +1,25 @@
+# ---- Vivado / synthesis & implementation outputs -----------------------
+/projects/*/build/
+/projects/*/reports/
+.Xil/
+*.jou
+*.log
+*.pb
+*.str
+clockInfo.txt
+
+# ---- Simulation outputs (XSIM, GHDL, Icarus) ----------------------------
+/projects/*/sim/
+*.vcd
+.crash/
+
+# ---- Misc tool / workspace scratch --------------------------------------
+diagnostics/
+/mem_content.txt
+
+# ---- OS / editor ---------------------------------------------------------
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/

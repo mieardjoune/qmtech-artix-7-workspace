@@ -1,0 +1,2 @@
+g_width=8
+g_depth=16
